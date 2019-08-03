@@ -12,7 +12,8 @@ Sample website with plenty of files for demos
 
 ## Delpoyment
 
-This a website is not going to deplyed anywhere
+There is no need to deplioy this.
 
 ## How to contribute
 no need to conribute to thid dummy project
+I am learing git.
