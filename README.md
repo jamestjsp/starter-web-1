@@ -12,4 +12,7 @@ Sample website with plenty of files for demos
 
 ## Delpoyment
 
+This a website is not going to deplyed anywhere
+
 ## How to contribute
+no need to conribute to thid dummy project
